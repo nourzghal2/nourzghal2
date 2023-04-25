@@ -7,7 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nawara222](https://github.com/nawara222)
 
-- 📄 Know about my experiences [file:///C:/Users/zghal/OneDrive%20-%20ESPRIT/Bureau/ZGHAL%20NOUR/Nour_Zghal_Resume_03-04-2023-22-47-43.pdf](file:///C:/Users/zghal/OneDrive%20-%20ESPRIT/Bureau/ZGHAL%20NOUR/Nour_Zghal_Resume_03-04-2023-22-47-43.pdf)
+- 📫 How to reach me **zghal.nour@esprit.tn**
+
+- 📄 Know about my experiences [https://flowcv.com/resume/bagwloa4cp](https://flowcv.com/resume/bagwloa4cp)
 
 - ⚡ Fun fact **I am also a Jewelry maker**
 
