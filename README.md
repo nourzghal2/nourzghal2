@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Architecting Solutions on AWS **Coursera**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nawara222](https://github.com/nawara222)
+- 👨‍💻 All of my projects are available at [https://github.com/nawara222](https://github.com/nourzgha2)
 
 - 📫 How to reach me **zghal.nour@esprit.tn**
 
