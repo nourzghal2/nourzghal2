@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nour Zghal</h1>
 <h3 align="center">A passionate Software Engineering Student</h3>
 
-- 🔭 I’m currently working on a Desktop App ["Smart Ambulance"](https://github.com/Projetcpp2A4/2a4-smart-ambulance.git)
+- 🔭 I’m currently working on a Desktop App ["Vinci"](https://github.com/nourzghal2/Pidev-Project2024.git)
 
 - 🌱 I’m currently learning Architecting Solutions on AWS **Coursera**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nawara222](https://github.com/nourzgha2)
+- 👨‍💻 All of my projects are available at [https://github.com/nourzghal2](https://github.com/nourzghal2)
 
 - 📫 How to reach me **zghal.nour@esprit.tn**
 
