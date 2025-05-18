@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nour Zghal</h1>
-<h3 align="center">A passionate Software Engineering Student</h3>
+<h3 align="center">A passionate Data Science Engineering Student</h3>
 
-- 🔭 I’m currently working on a Desktop App ["Vinci"](https://github.com/nourzghal2/Pidev-Project2024.git)
+- 🔭 I’m currently working on a Due Diligence Solution ["Vault"](https://github.com/nourzghal2/Pidev-Project2024.git)
 
 - 🌱 I’m currently learning Architecting Solutions on AWS **Coursera**
 
