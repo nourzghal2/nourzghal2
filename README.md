@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nour Zghal</h1>
-<h3 align="center">🎓 Final-Year Data Science Engineering Student | 🤖 AI Enthusiast | ☁️ Aspiring Cloud Engineer</h3>
+<h3 align="center">🎓 Final-Year Data Science Engineering Student | 🤖 AI Enthusiast</h3>
 
 ---
 
