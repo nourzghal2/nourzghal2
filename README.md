@@ -26,7 +26,6 @@
 I'm a final-year **Data Science Engineering student** at ESPRIT University with a strong passion for artificial intelligence and machine learning. My work focuses on developing intelligent systems that solve real-world problems through data-driven approaches.
 
 **Current Focus:**
-- 🔬 Researching Speech Emotion Recognition enhancement using diffusion models
 - ☁️ Expanding expertise in Cloud Computing with Microsoft Azure
 - 🤖 Exploring advanced AI techniques including Generative AI and Neural Networks
 - 💼 Actively seeking internship opportunities in AI and Data Science
